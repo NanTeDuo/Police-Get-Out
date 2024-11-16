@@ -9,3 +9,5 @@
 2. 如果遇到无法拦截的内容，自行添加关键词到Data.txt。
 
 这个只是基于关键词检测到，目前正在训练模型，未来可能会发布基于Ai检测的，大模型道德伦理法律声明过滤器。
+
+![{C110C71B-B224-4949-9A86-2DE5F052FDE1}](https://github.com/user-attachments/assets/318c293d-08d0-40a3-a4bb-f290bddf275e)
